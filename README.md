@@ -8,6 +8,10 @@ If you have Golang installed locally and your $GOPATH already configured,
 
 ##Run
 
+Run song:
+
+    go run song.go
+
 ```
 go mod tidy
 
